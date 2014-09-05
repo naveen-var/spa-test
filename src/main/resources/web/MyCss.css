@@ -1,0 +1,16 @@
+.banner {
+	position:relative;
+	width: 100%;
+	height: 150px;
+	background-color: #2b91af;
+}
+
+#main-content {
+	position:relative;
+	width: 100%;
+}
+
+.menu-div {
+	width: 100%;
+	height: 50px;
+}

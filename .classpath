@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/io/vertx/vertx-core/2.1M5/vertx-core-2.1M5.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/io/vertx/vertx-platform/2.1M5/vertx-platform-2.1M5.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-all/2.1.5/eda9522cc90f16c06dd51739e2d02daafad0b36f/groovy-all-2.1.5.jar" sourcepath="C:/Users/Nikhil/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-all/2.1.5/ded788d792e08a4c22a38ac76d4b8bcfbca533ea/groovy-all-2.1.5-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.gradle/caches/modules-2/files-2.1/io.vertx/lang-groovy/2.0.0-final/4a203afe2f759d37e5e45d8218b06b9bfb9b242a/lang-groovy-2.0.0-final.jar" sourcepath="C:/Users/Nikhil/.gradle/caches/modules-2/files-2.1/io.vertx/lang-groovy/2.0.0-final/8ff02d5bfc097b7416eca86ccb82de7209f342e6/lang-groovy-2.0.0-final-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/io/vertx/testtools/2.0.3-final/testtools-2.0.3-final.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/junit/junit/4.11/junit-4.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/org/slf4j/slf4j-api/1.6.2/slf4j-api-1.6.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/log4j/log4j/1.2.16/log4j-1.2.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/io/netty/netty-all/4.0.14.Final/netty-all-4.0.14.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/org/apache/directory/shared/shared-i18n/0.9.19/shared-i18n-0.9.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/org/apache/directory/shared/shared-asn1/0.9.19/shared-asn1-0.9.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/org/apache/directory/shared/shared-ldap-constants/0.9.19/shared-ldap-constants-0.9.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/commons-lang/commons-lang/2.4/commons-lang-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/org/apache/directory/shared/shared-ldap/0.9.19/shared-ldap-0.9.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/org/apache/directory/shared/shared-ldif/0.9.19/shared-ldif-0.9.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/org/apache/directory/shared/shared-ldap-schema/0.9.19/shared-ldap-schema-0.9.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/org/apache/directory/shared/shared-ldap-schema-loader/0.9.19/shared-ldap-schema-loader-0.9.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/org/apache/directory/shared/shared-ldap-schema-manager/0.9.19/shared-ldap-schema-manager-0.9.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/org/apache/directory/shared/shared-cursor/0.9.19/shared-cursor-0.9.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/org/apache/directory/shared/shared-ldap-jndi/0.9.19/shared-ldap-jndi-0.9.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/org/apache/mina/mina-core/2.0.0-RC1/mina-core-2.0.0-RC1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/org/apache/directory/shared/shared-asn1-codec/0.9.19/shared-asn1-codec-0.9.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/org/apache/directory/shared/shared-ldap-converter/0.9.19/shared-ldap-converter-0.9.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/org/apache/directory/shared/shared-ldap-schema-dao/0.9.19/shared-ldap-schema-dao-0.9.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/xpp3/xpp3/1.1.4c/xpp3-1.1.4c.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/org/apache/directory/shared/shared-dsml-parser/0.9.19/shared-dsml-parser-0.9.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/org/apache/directory/server/apacheds-i18n/1.5.7/apacheds-i18n-1.5.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/org/apache/directory/server/apacheds-core-entry/1.5.7/apacheds-core-entry-1.5.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/org/apache/directory/server/apacheds-core-constants/1.5.7/apacheds-core-constants-1.5.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/org/apache/directory/server/apacheds-core-api/1.5.7/apacheds-core-api-1.5.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/org/apache/directory/server/apacheds-utils/1.5.7/apacheds-utils-1.5.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/bouncycastle/bcprov-jdk15/140/bcprov-jdk15-140.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/org/apache/directory/server/apacheds-core/1.5.7/apacheds-core-1.5.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/org/apache/directory/server/apacheds-core-jndi/1.5.7/apacheds-core-jndi-1.5.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/org/apache/directory/server/apacheds-protocol-shared/1.5.7/apacheds-protocol-shared-1.5.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/org/apache/directory/server/apacheds-protocol-dns/1.5.7/apacheds-protocol-dns-1.5.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Nikhil/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.2.2/jackson-databind-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.2.2/jackson-core-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.2.2/jackson-annotations-2.2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

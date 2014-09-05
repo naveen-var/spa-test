@@ -1,4 +1,1 @@
-spa-test
-========
-
-Single page application test
+SPA  Test demo

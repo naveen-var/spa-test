@@ -1,0 +1,5 @@
+src/main/resources
+bin
+out/production/SPA-Test
+out/test/SPA-Test
+build/deps
